@@ -1,7 +1,7 @@
 # KNT
 
 <div align="center">
-
+<img src=".github/images/test_image.png" width="600"/>
 </div>
 
 <br>
